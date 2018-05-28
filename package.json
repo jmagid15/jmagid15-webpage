@@ -2,7 +2,7 @@
   "name": "jmagid15-webpage",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jmagid15.github.io/jmagid15-webpage",
+  "homepage": "https://jmagid15.github.io/",
   "dependencies": {
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
